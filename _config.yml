@@ -1,6 +1,16 @@
-title: Abhishek
+title: <p align="center"> Abhishek</p>
 logo: /assets/img/pic.png
-description: This is my github profile page
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://github.com/abhi-singh-123">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science,Machine learning & NLP related problems.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
